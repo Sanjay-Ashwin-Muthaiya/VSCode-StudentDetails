@@ -1,0 +1,6 @@
+com\example\login\SaveDetailsServlet.class
+com\example\login\LoginServlet.class
+com\example\login\ViewDetailsServlet.class
+com\example\login\DeleteServlet.class
+com\example\login\LogoutServlet.class
+com\example\login\StudentDetails.class
